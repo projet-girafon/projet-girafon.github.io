@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frédéric Loulergue on Projet GIRAFON</title>
+    <link>https://projet-girafon.github.io/authors/fr%C3%A9d%C3%A9ric-loulergue/</link>
+    <description>Recent content in Frédéric Loulergue on Projet GIRAFON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://projet-girafon.github.io/authors/fr%C3%A9d%C3%A9ric-loulergue/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Verified Programs for Frequent Itemset Mining</title>
+      <link>https://projet-girafon.github.io/publication/lw2018_atc.bib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/lw2018_atc.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Formalization of a Big Graph API in Coq</title>
+      <link>https://projet-girafon.github.io/publication/plb2017_hpcs.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/plb2017_hpcs.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a Verified Parallel Implementation of Frequent Itemset Mining</title>
+      <link>https://projet-girafon.github.io/publication/wl2017_hpcs.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/wl2017_hpcs.bib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,648 @@
+
+
+<!DOCTYPE html>
+<html lang="fr-fr">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.0.0">
+  <meta name="generator" content="Hugo 0.53" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Projet GIRAFON">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Projet GIRAFON - Grands Graphes: Interrogation, Fouille et Analyse">
+
+  
+  <link rel="alternate" hreflang="fr-fr" href="https://projet-girafon.github.io/taches/">
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#4caf50">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha256-eSi1q2PG6J7g7ib17yAaWMcrr5GrtohYChqibrV7PBE=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,700|Merriweather|Roboto+Mono">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  
+
+  
+  
+  
+
+  
+  <link rel="alternate" href="https://projet-girafon.github.io/taches/index.xml" type="application/rss+xml" title="Projet GIRAFON">
+  <link rel="feed" href="https://projet-girafon.github.io/taches/index.xml" type="application/rss+xml" title="Projet GIRAFON">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://projet-girafon.github.io/taches/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Projet GIRAFON">
+  <meta property="og:url" content="https://projet-girafon.github.io/taches/">
+  <meta property="og:title" content="Tâches | Projet GIRAFON">
+  <meta property="og:description" content="Projet GIRAFON - Grands Graphes: Interrogation, Fouille et Analyse"><meta property="og:image" content="https://projet-girafon.github.io/img/icon-192.png">
+  <meta property="og:locale" content="fr-fr">
+  
+  
+  
+
+  
+
+  
+
+  <title>Tâches | Projet GIRAFON</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Rechercher</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Recherche..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Projet GIRAFON</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Ouvrir la barre de navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#about">
+            
+            <span>Accueil</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/membres">
+            
+            <span>Membres</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/taches">
+            
+            <span>Tâches</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#publications">
+            
+            <span>Publications</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/logiciels">
+            
+            <span>Logiciels</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1 itemprop="name">Tâches</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  
+  <div class="article-style" itemprop="articleBody">
+
+<h2 id="1-algorithmes-pour-l-analyse-et-la-fouille-de-grands-graphes">1 - Algorithmes pour l’analyse et la fouille de grands graphes</h2>
+
+<p>Le travail réalisé dans le cadre de la tâche 1 Algorithmes pour
+l’analyse et la fouille de grands graphes du projet GIRAFON visait à
+développer de nouveaux algorithmes permettant l’analyse de grands
+graphes. Il a été effectué dans le cadre d’une collaboration entre les
+équipes BDTLN (Bases de données et Traitement des langues naturelles)
+du LIFAT (Laboratoire d’Informatique Fondamentale et Appliquée des
+Tours), PAMDA (Parallélisme, calcul distribué, bases de données) et CA
+(Contraintes et Apprentissage) du LIFO (Laboratoire d’Informatique
+Fondamentale d’Orléans).</p>
+
+<p>Ce travail collaboratif a impliqué l’embauche d’un post-doctorant,
+M. Khanh-Chuong Duong. Ce post-doctorant a notamment eu en charge le
+développement dans un environnement Hadoop/MapReduce de nouvelles
+méthodes de fouille de données, mais également leurs expérimentations
+sur de gros volumes de données dans des clusters de machines
+virtuelles mises à disposition par le LIFO. Ce post-doctorant a été
+aidé dans ses développements par un stagiaire de master, Léo Fourrier,
+financé grâce à l’aide de la fédération ICVL (Informatique en Centre
+Val de Loire).</p>
+
+<p>Au démarrage du projet, dans un environnement distribué
+Hadoop/MapReduce, aucune méthode ne permettait d’extraire les motifs
+fréquents d’un grand volume de données, en garantissant la réalisation
+complète et correcte du calcul quel que soit la mémoire disponible sur
+les différents nœuds du système. Dans ce contexte, l’algorithme MapFIM
+développé par les équipes BDTLN, PAMDA et CA impliquées dans le projet
+est le premier algorithme de fouille de motifs fréquents qui soit
+t-extensible, à savoir qui puisse traiter un volume quelconque de
+transactions, en s’adaptant aux ressources mémoires disponibles dans
+les différents nœuds du système. Si la première version de
+l’algorithme nécessitait un réglage manuel de paramètres pour garantir
+son exécution la plus optimale possible, sa deuxième version garantit
+un usage optimal des ressources mémoires disponibles tout en limitant
+l’intervention de l’utilisateur (par un choix judicieux de
+paramètres).</p>
+
+<h2 id="2-langages-de-requêtes-sur-les-grands-graphes">2 - Langages de requêtes sur les grands graphes</h2>
+
+<p>Les propositions actuelles s&rsquo;intéressent essentiellement aux requêtes
+sur la structure des graphes alors que les travaux sur le web
+sémantique nous permettent d&rsquo;envisager des formes plus riches
+d&rsquo;interrogation où la sémantique des divers types de données est prise
+en compte.</p>
+
+<p>Luiz Celso Gomes a travaillé ur un langage de requête: conception et
+implémentation d&rsquo;un langage type datalog étendu (agrégation, calcul,
+etc). Un prototype avec les données en mémoire centrale a été réalisé.
+Cheik Ba a continué ce travail avec l&rsquo;étude d&rsquo;extension vers des
+données distribuées avec le framework Giraph.</p>
+
+<h2 id="3-programmation-parallèle-structurée-sur-les-grands-graphes">3 - Programmation parallèle structurée sur les grands graphes</h2>
+
+<p>Les objectifs de cette tâche étaient de concevoir une ou plusieurs
+bibliothèques de parallélisme structuré pour les grands graphes mais
+adaptées à certaines classes de problèmes étudiés au sein de ce
+projet, et d&rsquo;étudier la sémantique formelle de bibliothèques et tirer
+parti des propriétés, notamment algébriques, des opérations proposées
+pour concevoir des règles de transformation, fondements d’un outil
+d&rsquo;optimisation basé sur des techniques de transformation de
+programmes.</p>
+
+<p>Nous avons conçu GeoSkelSL, un langage DSL dédié aux géosciences qui
+aide les non-spécialistes en informatique à écrire leurs propres
+programmes parallèles. Ce DSL est intégré au langage Python, largement
+utilisé en géosciences. Le programme écrit par l&rsquo;utilisateur est
+dérivé d&rsquo;un programme parallèle efficace C++/MPI utilisant des motifs
+parallèles implicites. Les outils associés au DSL génèrent également
+des scripts qui permettent à l&rsquo;utilisateur de compiler et d&rsquo;exécuter
+automatiquement le programme résultant sur l&rsquo;architecture distribuée
+ciblée.</p>
+
+<p>Pendant sont stage, Emile Cadorel a développé une bibliothèque de
+squelettes parallèles pour la manipulation de grands
+graphes. L’objectif de ce stage était double, (i) manipuler
+efficacement les grands graphes sur des architectures distribuées et
+hétérogènes et (ii) permettre l’adaptabilité des programmes
+dynamiquement en fonction des ressources matérielles disponibles dans
+le système et de critères définis par l’utilisateur (performance,
+consommation énergétique). Le prototype réalisé est disponible.</p>
+
+<p>Pendant son stage Nicolas Serrette a établi une comparaison des
+framework existants de calculs sur les grands graphes. Samy Ouzerrout
+a travaillé à une surcouche de style fonctionnel pour le framework
+MapReduce. Igor Zhirkov a travaillé à une formalisation de la
+bibliothèque de programmation parallèle BSPlib, utilisée notamment
+pour l&rsquo;implantation d&rsquo;algorithme parallèles sur des graphes
+distribués. Jolan Philippe a développé un formalization du DSL Fregel
+à l&rsquo;aide de l&rsquo;assistant de preuve <a
+href="https://coq.inria.fr">Coq</a>. Finalement une formalisation
+d&rsquo;algorithmes de recherche de motifs fréquents a été conduite avec
+l&rsquo;assistant de preuve Coq: des algorithmes de plus en plus efficaces
+ont été obtenus par des techniques de transformation de
+programmes.</p>
+
+<h2 id="4-protection-de-la-vie-privée">4 - Protection de la vie privée</h2>
+
+<p>Le travail a principalement été centré sur l&rsquo;étude d&rsquo;une métrique
+d&rsquo;influence dans les graphes, la <i>coreness</i>. Nous avons travaillé
+à l&rsquo;extension d&rsquo;un algorithme P2P de calcul de <i>coreness</i> pour:</p>
+
+<ul>
+<li>l&rsquo;étendre et le rendre applicable à des graphes dynamiques,</li>
+<li>le rendre différentiellement privé.</li>
+</ul>
+
+<p>Ces deux contributions ont été implantées dans un logiciel développé
+en Java: DPCore.</p>
+
+<p>Les problèmes de protection de la vie privée apparaissent en
+particulier dans le cadre de réseau sociaux. Dans le cadre de leur
+stage, Manal Ibrik et Sarah Kobar ont conçu et développé un logiciel
+de simulation réaliste de réseau social à large échelle.</p>
+
+<p>Au niveau théorique, les systèmes de catégorisation sont largement
+étudiés en psychologie, en sociologie et en théorie de l&rsquo;organisation
+en tant que dispositifs de structuration de l&rsquo;information qui sont
+essentiels aux processus décisionnels. Nous avons introduit une
+logique épistémique correcte et complète de perception catégorique des
+catégories et des agents. Nous avons prooposé une sémantique basée sur
+les graphes utilisant des multigraphes bipartites étiquetés.</p>
+</div>
+  
+
+  
+  
+
+  
+
+</div>
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Citation</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copier
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Télécharger
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha512-+NqPlbbtM1QqiK8ZAo4Yrj2c4lNQoGv8P79DPtKzj++l5jnN39rHA/xsqn8zE9l0uSoxaCdrOgFs6yjyfbBxSg==" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha256-VsEqElsCHSGmnmHXGQzvoWjWwoznFSZc6hs7ARLRacQ=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/index.json";
+      const i18n = {
+        'placeholder': "Recherche...",
+        'results': "Résultats trouvés",
+        'no_results': "Aucun résultat n'a été trouvé"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projets",
+        'publication' : "Publications",
+        'talk' : "Présentations"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.109caa4f51ff39522c6dfc25fb05b6e9.js"></script>
+
+  </body>
+</html>
+
+
+

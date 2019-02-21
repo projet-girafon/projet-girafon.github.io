@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohamad Al hajj Hassan on Projet GIRAFON</title>
+    <link>https://projet-girafon.github.io/authors/mohamad-al-hajj-hassan/</link>
+    <description>Recent content in Mohamad Al hajj Hassan on Projet GIRAFON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://projet-girafon.github.io/authors/mohamad-al-hajj-hassan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Handling Pregel&#39;s limits in big graphs processing in the presence of high degree vertices</title>
+      <link>https://projet-girafon.github.io/publication/hb2018_book.bib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/hb2018_book.bib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

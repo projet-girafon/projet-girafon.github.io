@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sébastien Limet on Projet GIRAFON</title>
+    <link>https://projet-girafon.github.io/authors/s%C3%A9bastien-limet/</link>
+    <description>Recent content in Sébastien Limet on Projet GIRAFON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://projet-girafon.github.io/authors/s%C3%A9bastien-limet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GeoSkelSL: A Python High-Level DSL for Parallel Computing in Geosciences</title>
+      <link>https://projet-girafon.github.io/publication/brl2018_iccs.bib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/brl2018_iccs.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Hierarchical Labeling Technique for Interactive Computation of Watersheds</title>
+      <link>https://projet-girafon.github.io/publication/brl2017_hpcs.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/brl2017_hpcs.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Implicit Parallel Patterns for Geographic Information System</title>
+      <link>https://projet-girafon.github.io/publication/brl2017_iccs.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/brl2017_iccs.bib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

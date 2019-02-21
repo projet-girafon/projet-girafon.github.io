@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mírian Halfeld Ferrari on Projet GIRAFON</title>
+    <link>https://projet-girafon.github.io/authors/m%C3%ADrian-halfeld-ferrari/</link>
+    <description>Recent content in Mírian Halfeld Ferrari on Projet GIRAFON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://projet-girafon.github.io/authors/m%C3%ADrian-halfeld-ferrari/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Context-driven Querying System for Urban Graph Analysis</title>
+      <link>https://projet-girafon.github.io/publication/chh2018_ideas.bib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/chh2018_ideas.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validating Data from Semantic Web Providers</title>
+      <link>https://projet-girafon.github.io/publication/chm2018_sofsem.bib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/chm2018_sofsem.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RDF Updates with Constraints</title>
+      <link>https://projet-girafon.github.io/publication/hhu2017_kesw.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/hhu2017_kesw.bib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

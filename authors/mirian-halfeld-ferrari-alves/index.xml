@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mirian Halfeld Ferrari Alves on Projet GIRAFON</title>
+    <link>https://projet-girafon.github.io/authors/mirian-halfeld-ferrari-alves/</link>
+    <description>Recent content in Mirian Halfeld Ferrari Alves on Projet GIRAFON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://projet-girafon.github.io/authors/mirian-halfeld-ferrari-alves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Graph Constraints in Urban Computing: Dealing with Conditions in Processing Urban Data</title>
+      <link>https://projet-girafon.github.io/publication/dhh2018_ieee.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/dhh2018_ieee.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Updating RDF/S Databases Under Constraints</title>
+      <link>https://projet-girafon.github.io/publication/hl2017_adbis.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/hl2017_adbis.bib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

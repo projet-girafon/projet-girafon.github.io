@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Membres on Projet GIRAFON</title>
+    <link>https://projet-girafon.github.io/membres/</link>
+    <description>Recent content in Membres on Projet GIRAFON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://projet-girafon.github.io/membres/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

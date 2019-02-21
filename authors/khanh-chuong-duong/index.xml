@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Khanh-Chuong Duong on Projet GIRAFON</title>
+    <link>https://projet-girafon.github.io/authors/khanh-chuong-duong/</link>
+    <description>Recent content in Khanh-Chuong Duong on Projet GIRAFON</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://projet-girafon.github.io/authors/khanh-chuong-duong/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MapFIM&#43;: Memory Aware Parallelized Frequent Itemset Mining In Very Large Datasets</title>
+      <link>https://projet-girafon.github.io/publication/dbg2018_tlsdkcs.bib/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/dbg2018_tlsdkcs.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MapFIM: Memory Aware Parallelized Frequent Itemset Mining in Very Large Datasets</title>
+      <link>https://projet-girafon.github.io/publication/dbg2017_dexa.bib/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://projet-girafon.github.io/publication/dbg2017_dexa.bib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
